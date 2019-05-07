@@ -1,6 +1,8 @@
+# News
++  https://breakermag.com/can-cryptocurrencies-help-pay-for-a-basic-income/
+
 # Conference
 +  https://revisionsummit2018.sched.com/event/Iamx/open-ubi-in-the-crypto-age
-+  https://breakermag.com/can-cryptocurrencies-help-pay-for-a-basic-income/
 
 # UBI_Cryptocurrency_Projects
 
