@@ -10,6 +10,7 @@
 + https://www.coinisseur.com/basic-income-and-blockchain-part-i-what-is-universal-basic-income/
 
 
+
 source: [https://bitcointalk.org/index.php?topic=3242065.0](https://bitcointalk.org/index.php?topic=3242065.0)
 author: eternalgloom
 date: April 02, 2018, 02:25:50 PM
@@ -116,5 +117,11 @@ We want to eradicate poverty forever. We will do it by creating a cryptocurrency
 More Info
 "
 
+# Books
+https://medium.com/basic-income/the-big-library-books-about-basic-income-b9763071b987
 
+# Andrew Yang
+https://www.yang2020.com/what-is-ubi/
 
+# Communities
+https://basicincome.org/about-bien/affiliates/
