@@ -125,3 +125,6 @@ https://www.yang2020.com/what-is-ubi/
 
 # Communities
 https://basicincome.org/about-bien/affiliates/
+
+# Stanford
+https://basicincome.stanford.edu/
