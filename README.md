@@ -1,3 +1,5 @@
+# https://www.ubitquity.io/ubitquity-teams-up-with-vechain-to-implement-vechain-toolchain-for-the-us-and-global-title-industry/
+
 # News
 +  https://breakermag.com/can-cryptocurrencies-help-pay-for-a-basic-income/
 
